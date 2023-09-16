@@ -1,0 +1,2657 @@
+Date,Time,Error
+,,LOGBOOK.LS     Robot Name FM10200RBC01 15-JUN-22 11:59:36
+15-JUN-22,08:01 :02,"DCS SSO Fence Open 1,1"
+15-JUN-22,08:01 :02,Controlled Stop
+15-JUN-22,07:33 :52,Tool frame 2(G:1)
+15-JUN-22,07:32 :44,User frame 1(G:1)
+15-JUN-22,07:32 :26,User frame 0(G:1)
+15-JUN-22,07:32 :26,Tool frame 1(G:1)
+15-JUN-22,07:23 :34,Tool frame 2(G:1)
+15-JUN-22,07:22 :26,User frame 1(G:1)
+15-JUN-22,07:22 :08,User frame 0(G:1)
+15-JUN-22,07:22 :08,Tool frame 1(G:1)
+15-JUN-22,07:12 :52,Tool frame 2(G:1)
+15-JUN-22,07:11 :44,User frame 1(G:1)
+15-JUN-22,07:11 :38,Menu changed 'USER'
+15-JUN-22,07:10 :54,Menu changed 'ALARM Recovery'
+15-JUN-22,07:10 :26,Tool frame 1(G:1)
+15-JUN-22,07:09 :42,Tool frame 2(G:1)
+15-JUN-22,07:08 :28,Menu changed 'USER'
+15-JUN-22,07:05 :54,Menu changed 'ALARM Recovery'
+15-JUN-22,07:05 :54,Sealer Not Reset Check SCA U (
+15-JUN-22,07:04 :52,User frame 0(G:1)
+15-JUN-22,07:04 :52,Tool frame 1(G:1)
+15-JUN-22,06:59 :14,"DCS SSO Fence Open 1,1"
+15-JUN-22,06:59 :10,"DCS SSO Fence Open 1,1"
+15-JUN-22,06:43 :04,"DCS SSO Fence Open 1,1"
+15-JUN-22,06:43 :00,"DCS SSO Fence Open 1,1"
+15-JUN-22,06:25 :52,"DCS SSO Fence Open 1,1"
+14-JUN-22,17:22 :06,"DCS SSO Fence Open 1,1"
+14-JUN-22,17:21 :36,"DCS SSO Fence Open 1,1"
+14-JUN-22,16:43 :24,"DCS SSO Fence Open 1,1"
+14-JUN-22,16:39 :12,"DCS SSO Ext Emergency Stop 1,1"
+14-JUN-22,16:39 :12,Controlled Stop
+14-JUN-22,15:36 :02,Tool frame 2(G:1)
+14-JUN-22,15:34 :54,User frame 1(G:1)
+14-JUN-22,15:34 :36,User frame 0(G:1)
+14-JUN-22,15:34 :36,Tool frame 1(G:1)
+14-JUN-22,15:28 :44,Tool frame 2(G:1)
+14-JUN-22,15:27 :36,User frame 1(G:1)
+14-JUN-22,15:27 :18,User frame 0(G:1)
+14-JUN-22,15:27 :18,Tool frame 1(G:1)
+14-JUN-22,15:23 :20,Tool frame 2(G:1)
+14-JUN-22,15:22 :12,User frame 1(G:1)
+14-JUN-22,15:21 :54,User frame 0(G:1)
+14-JUN-22,15:21 :54,Tool frame 1(G:1)
+14-JUN-22,15:14 :06,Tool frame 2(G:1)
+14-JUN-22,15:13 :00,User frame 1(G:1)
+14-JUN-22,15:12 :40,User frame 0(G:1)
+14-JUN-22,15:12 :40,Tool frame 1(G:1)
+14-JUN-22,15:03 :42,Tool frame 2(G:1)
+14-JUN-22,15:02 :34,User frame 1(G:1)
+14-JUN-22,15:02 :16,User frame 0(G:1)
+14-JUN-22,15:02 :16,Tool frame 1(G:1)
+14-JUN-22,15:00 :38,Tool frame 2(G:1)
+14-JUN-22,14:59 :30,User frame 1(G:1)
+14-JUN-22,14:59 :12,User frame 0(G:1)
+14-JUN-22,14:59 :12,Tool frame 1(G:1)
+14-JUN-22,14:52 :54,Tool frame 2(G:1)
+14-JUN-22,14:51 :46,User frame 1(G:1)
+14-JUN-22,14:51 :28,User frame 0(G:1)
+14-JUN-22,14:51 :28,Tool frame 1(G:1)
+14-JUN-22,14:48 :48,"DCS SSO Fence Open 1,1"
+14-JUN-22,14:44 :40,"DCS SSO Fence Open 1,1"
+14-JUN-22,14:44 :40,Controlled Stop
+14-JUN-22,14:42 :12,Tool frame 2(G:1)
+14-JUN-22,14:41 :04,User frame 1(G:1)
+14-JUN-22,14:40 :44,User frame 0(G:1)
+14-JUN-22,14:40 :44,Tool frame 1(G:1)
+14-JUN-22,14:39 :52,Menu changed 'USER'
+14-JUN-22,14:39 :18,Menu changed 'SL_PURGE'
+14-JUN-22,14:39 :16,EDIT is pressed
+14-JUN-22,14:39 :16,3 is entered
+14-JUN-22,14:38 :44,3 is entered
+14-JUN-22,14:38 :40,PREV is pressed
+14-JUN-22,14:35 :50,Tool frame 2(G:1)
+14-JUN-22,14:32 :02,User frame 1(G:1)
+14-JUN-22,14:31 :56,Menu changed 'USER'
+14-JUN-22,14:30 :52,Menu changed 'SL_PURGE'
+14-JUN-22,14:30 :50,EDIT is pressed
+14-JUN-22,14:30 :46,Menu changed 'USER'
+14-JUN-22,14:30 :26,RESET is pressed
+14-JUN-22,14:30 :24,RESET is pressed
+14-JUN-22,14:30 :24,RESET is pressed
+14-JUN-22,14:30 :24,RESET is pressed
+14-JUN-22,14:30 :24,RESET is pressed
+14-JUN-22,14:30 :24,RESET is pressed
+14-JUN-22,14:30 :24,RESET is pressed
+14-JUN-22,14:30 :24,Menu changed 'SL_RFILLCHK'
+14-JUN-22,14:30 :24,EDIT is pressed
+14-JUN-22,14:20 :34,Menu changed 'ALARM Recovery'
+14-JUN-22,14:20 :34,Sealer Not Reset Check SCA U (
+14-JUN-22,14:19 :32,User frame 0(G:1)
+14-JUN-22,14:19 :32,Tool frame 1(G:1)
+14-JUN-22,14:19 :30,Menu changed 'USER'
+14-JUN-22,14:18 :34,Menu changed 'S012SD02'
+14-JUN-22,14:18 :34,EDIT is pressed
+14-JUN-22,14:18 :32,Menu changed 'USER'
+14-JUN-22,14:18 :32,Menu changed 'S012SD02'
+14-JUN-22,14:18 :30,2 is entered
+14-JUN-22,14:18 :28,Menu changed 'USER'
+14-JUN-22,14:18 :06,' CONTINUE' is selected in '  The robo
+14-JUN-22,14:18 :02,RESET is pressed
+14-JUN-22,14:18 :02,RESET is pressed
+14-JUN-22,14:18 :02,RESET is pressed
+14-JUN-22,14:18 :02,RESET is pressed
+14-JUN-22,14:18 :02,RESET is pressed
+14-JUN-22,14:18 :02,RESET is pressed
+14-JUN-22,14:18 :02,RESET is pressed
+14-JUN-22,14:18 :02,RESET is pressed
+14-JUN-22,14:18 :02,RESET is pressed
+14-JUN-22,14:18 :02,RESET is pressed
+14-JUN-22,14:18 :02,RESET is pressed
+14-JUN-22,14:18 :02,RESET is pressed
+14-JUN-22,14:18 :00,RESET is pressed
+14-JUN-22,14:18 :00,RESET is pressed
+14-JUN-22,14:18 :00,RESET is pressed
+14-JUN-22,14:18 :00,Operation mode AUTO Selected
+14-JUN-22,14:18 :00,RESET is pressed
+14-JUN-22,14:18 :00,Single step OFF
+14-JUN-22,14:18 :00,STEP is pressed
+14-JUN-22,14:18 :00,DEADMAN defeated
+14-JUN-22,14:18 :00,TP disabled in T1/T2 mode
+14-JUN-22,14:17 :58,Menu changed 'S012SD02'
+14-JUN-22,14:17 :58,EDIT is pressed
+14-JUN-22,14:17 :56,Single step ON
+14-JUN-22,14:17 :56,"SHIFT,STEP is pressed"
+14-JUN-22,14:17 :56,SHIFT +% is pressed
+14-JUN-22,14:17 :56,SHIFT +% is pressed
+14-JUN-22,14:17 :56,SHIFT +% is pressed
+14-JUN-22,14:17 :56,SHIFT +% is pressed
+14-JUN-22,14:17 :56,SHIFT +% is pressed
+14-JUN-22,14:17 :56,SHIFT +% is pressed
+14-JUN-22,14:17 :56,SHIFT +% is pressed
+14-JUN-22,14:17 :56,SHIFT +% is pressed
+14-JUN-22,14:17 :54,Tool frame 2(G:1)
+14-JUN-22,14:17 :54,Override 100%
+14-JUN-22,14:17 :54,SHIFT +% is pressed
+14-JUN-22,14:17 :54,SHIFT +% is pressed
+14-JUN-22,14:17 :54,Override 50%
+14-JUN-22,14:17 :54,SHIFT +% is pressed
+14-JUN-22,14:17 :54,Menu changed 'USER'
+14-JUN-22,14:17 :54,"SHIFT,FWD is pressed"
+14-JUN-22,14:17 :54,'   YES' is selected in ' The cursor i
+14-JUN-22,14:17 :54,"SHIFT,FWD is pressed"
+14-JUN-22,14:17 :50,Menu changed 'SL_PURGE'
+14-JUN-22,14:17 :50,EDIT is pressed
+14-JUN-22,14:17 :50,"SHIFT,RESET is pressed"
+14-JUN-22,14:17 :50,"SHIFT,RESET is pressed"
+14-JUN-22,14:17 :50,Operation mode T1 Selected
+14-JUN-22,14:17 :50,Deadman switch released
+14-JUN-22,14:17 :48,Menu changed 'ALARM Recovery'
+14-JUN-22,14:17 :48,DEADMAN defeated
+14-JUN-22,14:17 :48,TP enabled in AUTO mode
+14-JUN-22,14:17 :48,Override 10%
+14-JUN-22,14:17 :48,TP is enabled while running (
+14-JUN-22,14:17 :42,Menu changed 'SL_PURGE'
+14-JUN-22,14:17 :42,EDIT is pressed
+14-JUN-22,14:17 :08,Menu changed 'USER'
+14-JUN-22,14:17 :08,Menu changed 'STYLE012'
+14-JUN-22,14:17 :08,2 is entered
+14-JUN-22,14:17 :06,Menu changed 'USER'
+14-JUN-22,14:10 :26,Menu changed 'I/O Cell Outputs'
+14-JUN-22,14:10 :26,UF6 is pressed
+14-JUN-22,14:10 :24,1 is entered
+14-JUN-22,14:10 :22,ITEM is pressed
+14-JUN-22,14:10 :22,PREV is pressed
+14-JUN-22,14:10 :20,PREV is pressed
+14-JUN-22,14:10 :20,PREV is pressed
+14-JUN-22,14:10 :10,ENTER is pressed
+14-JUN-22,14:10 :08,PREV is pressed
+14-JUN-22,14:10 :00,ENTER is pressed
+14-JUN-22,14:09 :58,ENTER is pressed
+14-JUN-22,14:09 :34,Menu changed 'SYSTEM Variables'
+14-JUN-22,14:09 :34,'Variables' is selected in 'SYSTEM' MEN
+14-JUN-22,14:09 :34,ENTER is pressed
+14-JUN-22,14:09 :22,RESET is pressed
+14-JUN-22,14:09 :20,RESET is pressed
+14-JUN-22,14:09 :16,Menu changed 'S012SD01'
+14-JUN-22,14:09 :16,EDIT is pressed
+14-JUN-22,10:29 :12,Menu changed 'ALARM Recovery'
+14-JUN-22,10:28 :54,User frame 1(G:1)
+14-JUN-22,10:28 :36,User frame 0(G:1)
+14-JUN-22,10:28 :36,Tool frame 1(G:1)
+14-JUN-22,10:05 :48,Tool frame 2(G:1)
+14-JUN-22,10:04 :40,User frame 1(G:1)
+14-JUN-22,10:04 :22,User frame 0(G:1)
+14-JUN-22,10:04 :22,Tool frame 1(G:1)
+14-JUN-22,09:59 :34,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:59 :00,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:57 :50,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:57 :28,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:53 :56,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:53 :44,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:53 :14,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:51 :20,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:51 :20,Controlled Stop
+14-JUN-22,09:46 :32,Tool frame 2(G:1)
+14-JUN-22,09:45 :24,User frame 1(G:1)
+14-JUN-22,09:45 :04,User frame 0(G:1)
+14-JUN-22,09:45 :04,Tool frame 1(G:1)
+14-JUN-22,09:37 :08,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:35 :30,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:35 :30,Controlled Stop
+14-JUN-22,09:29 :54,Tool frame 2(G:1)
+14-JUN-22,09:28 :46,User frame 1(G:1)
+14-JUN-22,09:28 :26,User frame 0(G:1)
+14-JUN-22,09:28 :26,Tool frame 1(G:1)
+14-JUN-22,09:26 :40,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:26 :00,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:26 :00,Controlled Stop
+14-JUN-22,09:21 :58,Tool frame 2(G:1)
+14-JUN-22,09:20 :50,User frame 1(G:1)
+14-JUN-22,09:20 :30,User frame 0(G:1)
+14-JUN-22,09:20 :30,Tool frame 1(G:1)
+14-JUN-22,09:11 :22,Tool frame 2(G:1)
+14-JUN-22,09:10 :14,User frame 1(G:1)
+14-JUN-22,09:09 :54,User frame 0(G:1)
+14-JUN-22,09:09 :54,Tool frame 1(G:1)
+14-JUN-22,09:07 :42,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:07 :34,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:07 :28,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:07 :18,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:05 :50,"DCS SSO Fence Open 1,1"
+14-JUN-22,09:05 :50,Controlled Stop
+14-JUN-22,09:01 :30,"DCS SSO Fence Open 1,1"
+14-JUN-22,08:58 :32,"DCS SSO Fence Open 1,1"
+14-JUN-22,08:58 :32,Controlled Stop
+14-JUN-22,08:56 :46,"DCS SSO Fence Open 1,1"
+14-JUN-22,08:56 :36,"DCS SSO Fence Open 1,1"
+14-JUN-22,08:55 :44,"DCS SSO Fence Open 1,1"
+14-JUN-22,08:55 :42,Controlled Stop
+14-JUN-22,08:44 :50,"DCS SSO Fence Open 1,1"
+14-JUN-22,08:44 :50,Controlled Stop
+14-JUN-22,08:42 :22,Tool frame 2(G:1)
+14-JUN-22,08:41 :16,User frame 1(G:1)
+14-JUN-22,08:40 :56,User frame 0(G:1)
+14-JUN-22,08:40 :56,Tool frame 1(G:1)
+14-JUN-22,08:25 :32,Tool frame 2(G:1)
+14-JUN-22,08:24 :26,User frame 1(G:1)
+14-JUN-22,08:24 :06,User frame 0(G:1)
+14-JUN-22,08:24 :06,Tool frame 1(G:1)
+14-JUN-22,08:14 :48,"DCS SSO Fence Open 1,1"
+14-JUN-22,08:14 :48,Controlled Stop
+14-JUN-22,08:09 :20,Tool frame 2(G:1)
+14-JUN-22,08:08 :12,User frame 1(G:1)
+14-JUN-22,08:07 :54,User frame 0(G:1)
+14-JUN-22,08:07 :54,Tool frame 1(G:1)
+14-JUN-22,08:05 :50,Tool frame 2(G:1)
+14-JUN-22,08:04 :42,User frame 1(G:1)
+14-JUN-22,08:04 :22,User frame 0(G:1)
+14-JUN-22,08:04 :22,Tool frame 1(G:1)
+14-JUN-22,07:59 :54,Tool frame 2(G:1)
+14-JUN-22,07:58 :46,User frame 1(G:1)
+14-JUN-22,07:58 :28,User frame 0(G:1)
+14-JUN-22,07:58 :28,Tool frame 1(G:1)
+14-JUN-22,07:41 :18,Tool frame 2(G:1)
+14-JUN-22,07:40 :10,User frame 1(G:1)
+14-JUN-22,07:39 :52,User frame 0(G:1)
+14-JUN-22,07:39 :52,Tool frame 1(G:1)
+14-JUN-22,07:29 :26,Tool frame 2(G:1)
+14-JUN-22,07:28 :20,User frame 1(G:1)
+14-JUN-22,07:27 :58,User frame 0(G:1)
+14-JUN-22,07:27 :58,Tool frame 1(G:1)
+14-JUN-22,07:23 :58,Tool frame 2(G:1)
+14-JUN-22,07:22 :48,User frame 1(G:1)
+14-JUN-22,06:44 :12,Tool frame 1(G:1)
+14-JUN-22,06:43 :18,Tool frame 2(G:1)
+13-JUN-22,17:34 :46,"DCS SSO Fence Open 1,1"
+13-JUN-22,17:34 :46,Controlled Stop
+13-JUN-22,17:04 :54,Tool frame 1(G:1)
+13-JUN-22,17:04 :10,Tool frame 2(G:1)
+13-JUN-22,15:04 :32,Tool frame 1(G:1)
+13-JUN-22,15:03 :48,Tool frame 2(G:1)
+13-JUN-22,13:04 :08,Tool frame 1(G:1)
+13-JUN-22,13:03 :24,Tool frame 2(G:1)
+13-JUN-22,13:01 :58,User frame 0(G:1)
+13-JUN-22,13:01 :58,Tool frame 1(G:1)
+13-JUN-22,11:02 :58,Tool frame 2(G:1)
+13-JUN-22,11:01 :50,User frame 1(G:1)
+13-JUN-22,09:58 :52,Tool frame 1(G:1)
+13-JUN-22,09:58 :08,Tool frame 2(G:1)
+13-JUN-22,09:56 :38,User frame 0(G:1)
+13-JUN-22,09:56 :38,Tool frame 1(G:1)
+13-JUN-22,07:57 :38,Tool frame 2(G:1)
+13-JUN-22,07:56 :30,User frame 1(G:1)
+13-JUN-22,07:56 :12,User frame 0(G:1)
+13-JUN-22,07:56 :12,Tool frame 1(G:1)
+13-JUN-22,07:54 :12,"DCS SSO Fence Open 1,1"
+13-JUN-22,07:50 :24,"DCS SSO Fence Open 1,1"
+13-JUN-22,07:50 :24,Controlled Stop
+13-JUN-22,07:37 :40,"DCS SSO Fence Open 1,1"
+13-JUN-22,07:37 :40,Controlled Stop
+13-JUN-22,07:25 :40,"DCS SSO Fence Open 1,1"
+13-JUN-22,07:25 :40,Controlled Stop
+13-JUN-22,07:16 :22,Tool frame 2(G:1)
+13-JUN-22,07:15 :14,User frame 1(G:1)
+13-JUN-22,06:54 :40,"DCS SSO Fence Open 1,1"
+13-JUN-22,06:54 :38,Controlled Stop
+13-JUN-22,06:49 :30,"DCS SSO Fence Open 1,1"
+13-JUN-22,06:49 :28,Controlled Stop
+13-JUN-22,06:21 :26,Tool frame 1(G:1)
+13-JUN-22,06:20 :44,Tool frame 2(G:1)
+13-JUN-22,04:21 :04,Tool frame 1(G:1)
+13-JUN-22,04:20 :20,Tool frame 2(G:1)
+13-JUN-22,02:20 :40,Tool frame 1(G:1)
+13-JUN-22,02:19 :58,Tool frame 2(G:1)
+13-JUN-22,00:20 :20,Tool frame 1(G:1)
+13-JUN-22,00:19 :34,Tool frame 2(G:1)
+12-JUN-22,22:19 :56,Tool frame 1(G:1)
+12-JUN-22,22:19 :12,Tool frame 2(G:1)
+12-JUN-22,20:19 :32,Tool frame 1(G:1)
+12-JUN-22,20:18 :48,Tool frame 2(G:1)
+12-JUN-22,18:19 :10,Tool frame 1(G:1)
+12-JUN-22,18:18 :26,Tool frame 2(G:1)
+12-JUN-22,16:18 :46,Tool frame 1(G:1)
+12-JUN-22,16:18 :02,Tool frame 2(G:1)
+12-JUN-22,14:18 :28,Tool frame 1(G:1)
+12-JUN-22,14:17 :40,Tool frame 2(G:1)
+12-JUN-22,14:16 :28,Tool frame 1(G:1)
+12-JUN-22,14:14 :18,"DCS SSO Fence Open 1,1"
+12-JUN-22,14:14 :18,Controlled Stop
+12-JUN-22,13:59 :32,"DCS SSO Ext Emergency Stop 1,1"
+12-JUN-22,13:59 :32,Controlled Stop
+12-JUN-22,13:13 :40,"DCS SSO Fence Open 1,1"
+12-JUN-22,13:11 :10,"DCS SSO Fence Open 1,1"
+12-JUN-22,13:08 :12,"DCS SSO Ext Emergency Stop 1,1"
+12-JUN-22,13:08 :12,"DCS SSO Fence Open 1,1"
+12-JUN-22,13:07 :10,"DCS SSO Ext Emergency Stop 1,1"
+12-JUN-22,11:52 :00,"DCS SSO Fence Open 1,1"
+12-JUN-22,11:52 :00,Controlled Stop
+12-JUN-22,11:47 :54,Tool frame 2(G:1)
+12-JUN-22,11:46 :44,Menu changed 'USER'
+12-JUN-22,11:44 :58,"DCS SSO Fence Open 1,1"
+12-JUN-22,11:44 :58,Controlled Stop
+12-JUN-22,11:39 :10,Menu changed 'ALARM Recovery'
+12-JUN-22,11:39 :10,Sealer Not Reset Check SCA U (
+12-JUN-22,11:38 :08,User frame 0(G:1)
+12-JUN-22,11:38 :08,Tool frame 1(G:1)
+12-JUN-22,11:37 :18,"DCS SSO Fence Open 1,1"
+12-JUN-22,11:36 :48,"DCS SSO Fence Open 1,1"
+12-JUN-22,11:36 :10,"DCS SSO Fence Open 1,1"
+12-JUN-22,11:36 :04,"DCS SSO Fence Open 1,1"
+12-JUN-22,11:35 :40,"DCS SSO Fence Open 1,1"
+12-JUN-22,11:22 :28,"DCS SSO Ext Emergency Stop 1,1"
+12-JUN-22,11:16 :54,"DCS SSO Fence Open 1,1"
+12-JUN-22,11:15 :34,"DCS SSO Fence Open 1,1"
+12-JUN-22,10:36 :56,"DCS SSO Fence Open 1,1"
+12-JUN-22,10:35 :08,"DCS SSO Fence Open 1,1"
+12-JUN-22,09:32 :26,Operation mode AUTO Selected
+12-JUN-22,09:21 :36,"DCS SSO Servo Disconnect 1,1"
+12-JUN-22,09:21 :36,"DCS SSO Ext Emergency Stop 1,1"
+12-JUN-22,09:21 :36,"TP OFF in T1,T2"
+12-JUN-22,09:21 :36,"DCS SSO Fence Open 1,1"
+12-JUN-22,09:21 :36,"DCS SSO SVOFF input 1,1"
+12-JUN-22,09:21 :36,"CIP Safety comm. error 1,1"
+12-JUN-22,09:21 :36,IMSTP input (Group:1)
+12-JUN-22,09:21 :36,TP disabled in T1/T2 mode
+12-JUN-22,09:21 :36,TP disabled in T1/T2 mode
+12-JUN-22,09:21 :36,Operation mode T1 Selected
+11-JUN-22,16:28 :48,"DCS SSO Fence Open 1,1"
+11-JUN-22,16:28 :48,Controlled Stop
+11-JUN-22,16:24 :32,"DCS SSO Fence Open 1,1"
+11-JUN-22,16:24 :30,Controlled Stop
+11-JUN-22,16:23 :22,"DCS SSO Fence Open 1,1"
+11-JUN-22,15:39 :56,"DCS SSO Fence Open 1,1"
+11-JUN-22,15:39 :56,Controlled Stop
+11-JUN-22,13:47 :54,"DCS SSO Ext Emergency Stop 1,1"
+11-JUN-22,13:47 :54,"DCS SSO Fence Open 1,1"
+11-JUN-22,13:47 :42,"DCS SSO Ext Emergency Stop 1,1"
+11-JUN-22,13:47 :42,"DCS SSO Fence Open 1,1"
+11-JUN-22,07:53 :18,"DCS SSO Ext Emergency Stop 1,1"
+10-JUN-22,16:09 :22,"DCS SSO Fence Open 1,1"
+10-JUN-22,16:05 :26,"DCS SSO Fence Open 1,1"
+10-JUN-22,16:05 :26,Controlled Stop
+10-JUN-22,15:49 :50,"DCS SSO Fence Open 1,1"
+10-JUN-22,15:49 :50,Controlled Stop
+10-JUN-22,15:38 :54,Tool frame 2(G:1)
+10-JUN-22,15:37 :46,User frame 1(G:1)
+10-JUN-22,15:37 :28,User frame 0(G:1)
+10-JUN-22,15:37 :28,Tool frame 1(G:1)
+10-JUN-22,14:27 :34,Tool frame 2(G:1)
+10-JUN-22,14:26 :28,User frame 1(G:1)
+10-JUN-22,14:26 :08,User frame 0(G:1)
+10-JUN-22,14:26 :08,Tool frame 1(G:1)
+10-JUN-22,14:21 :44,Tool frame 2(G:1)
+10-JUN-22,14:20 :36,User frame 1(G:1)
+10-JUN-22,14:20 :18,User frame 0(G:1)
+10-JUN-22,14:20 :18,Tool frame 1(G:1)
+10-JUN-22,14:18 :20,Tool frame 2(G:1)
+10-JUN-22,14:18 :18,Menu changed 'USER'
+10-JUN-22,14:15 :32,F2(MONITOR) is pressed
+10-JUN-22,14:15 :32,Menu changed 'STYLE012'
+10-JUN-22,14:15 :32,EDIT is pressed
+10-JUN-22,14:15 :30,Menu changed 'Select'
+10-JUN-22,14:15 :30,SELECT is pressed
+10-JUN-22,14:15 :28,ENTER is pressed
+10-JUN-22,14:15 :28,F2(LOOK) is pressed
+10-JUN-22,14:13 :58,Menu changed 'STYLE012'
+10-JUN-22,14:13 :58,EDIT is pressed
+10-JUN-22,14:12 :18,"DCS SSO Fence Open 1,1"
+10-JUN-22,14:12 :18,Controlled Stop
+10-JUN-22,14:12 :14,Menu changed 'ALARM Recovery'
+10-JUN-22,14:12 :14,2 is entered
+10-JUN-22,14:02 :20,User frame 1(G:1)
+10-JUN-22,14:02 :02,User frame 0(G:1)
+10-JUN-22,14:02 :02,Tool frame 1(G:1)
+10-JUN-22,13:48 :54,Tool frame 2(G:1)
+10-JUN-22,13:47 :46,User frame 1(G:1)
+10-JUN-22,13:47 :26,User frame 0(G:1)
+10-JUN-22,13:47 :26,Tool frame 1(G:1)
+10-JUN-22,13:41 :32,Tool frame 2(G:1)
+10-JUN-22,13:41 :32,Menu changed 'USER'
+10-JUN-22,13:41 :10,"DCS SSO Fence Open 1,1"
+10-JUN-22,13:40 :38,"DCS SSO Fence Open 1,1"
+10-JUN-22,13:40 :38,Controlled Stop
+10-JUN-22,13:38 :04,"DCS SSO Fence Open 1,1"
+10-JUN-22,13:38 :00,"DCS SSO Fence Open 1,1"
+10-JUN-22,13:36 :08,"DCS SSO Fence Open 1,1"
+10-JUN-22,13:36 :08,Controlled Stop
+10-JUN-22,13:35 :52,Menu changed 'ALARM Recovery'
+10-JUN-22,13:34 :46,User frame 1(G:1)
+10-JUN-22,13:34 :28,User frame 0(G:1)
+10-JUN-22,13:34 :28,Tool frame 1(G:1)
+10-JUN-22,13:32 :30,Tool frame 2(G:1)
+10-JUN-22,13:32 :12,2 is entered
+10-JUN-22,13:27 :28,User frame 1(G:1)
+10-JUN-22,13:27 :10,User frame 0(G:1)
+10-JUN-22,13:27 :10,Tool frame 1(G:1)
+10-JUN-22,13:22 :48,Tool frame 2(G:1)
+10-JUN-22,13:21 :40,User frame 1(G:1)
+10-JUN-22,13:21 :22,User frame 0(G:1)
+10-JUN-22,13:21 :22,Tool frame 1(G:1)
+10-JUN-22,12:39 :38,Tool frame 2(G:1)
+10-JUN-22,12:39 :36,Menu changed 'USER'
+10-JUN-22,12:39 :06,Menu changed 'STYLE012'
+10-JUN-22,12:39 :06,EDIT is pressed
+10-JUN-22,12:38 :56,2 is entered
+10-JUN-22,12:38 :54,Menu changed 'USER'
+10-JUN-22,12:38 :54,'USER' is selected in MENU
+10-JUN-22,12:38 :46,Menu changed 'LISTMENU'
+10-JUN-22,12:38 :46,EDIT is pressed
+10-JUN-22,12:35 :08,"DCS SSO Fence Open 1,1"
+10-JUN-22,12:32 :46,Menu changed 'ALARM Recovery'
+10-JUN-22,12:32 :46,"DCS SSO Fence Open 1,1"
+10-JUN-22,12:32 :46,Controlled Stop
+10-JUN-22,12:31 :28,User frame 1(G:1)
+10-JUN-22,12:31 :10,User frame 0(G:1)
+10-JUN-22,12:31 :10,Tool frame 1(G:1)
+10-JUN-22,12:20 :12,"DCS SSO Fence Open 1,1"
+10-JUN-22,12:20 :12,Controlled Stop
+10-JUN-22,12:17 :08,"DCS SSO Fence Open 1,1"
+10-JUN-22,12:17 :08,Controlled Stop
+10-JUN-22,12:05 :38,Tool frame 2(G:1)
+10-JUN-22,12:04 :32,User frame 1(G:1)
+10-JUN-22,12:04 :14,Menu changed 'USER'
+10-JUN-22,12:04 :14,User frame 0(G:1)
+10-JUN-22,12:04 :14,Tool frame 1(G:1)
+10-JUN-22,12:00 :48,"DCS SSO Fence Open 1,1"
+10-JUN-22,12:00 :48,Controlled Stop
+10-JUN-22,11:57 :36,Menu changed 'STYLE012'
+10-JUN-22,11:57 :34,EDIT is pressed
+10-JUN-22,11:54 :44,Tool frame 2(G:1)
+10-JUN-22,11:54 :44,Menu changed 'USER'
+10-JUN-22,11:54 :16,Menu changed 'STYLE012'
+10-JUN-22,11:54 :16,EDIT is pressed
+10-JUN-22,11:53 :14,2 is entered
+10-JUN-22,10:49 :00,User frame 1(G:1)
+10-JUN-22,10:47 :42,Tool frame 1(G:1)
+10-JUN-22,10:46 :58,Tool frame 2(G:1)
+10-JUN-22,10:45 :24,User frame 0(G:1)
+10-JUN-22,10:45 :24,Tool frame 1(G:1)
+10-JUN-22,08:46 :24,Tool frame 2(G:1)
+10-JUN-22,08:45 :16,User frame 1(G:1)
+10-JUN-22,08:44 :58,User frame 0(G:1)
+10-JUN-22,08:44 :58,Tool frame 1(G:1)
+10-JUN-22,08:39 :44,Tool frame 2(G:1)
+10-JUN-22,08:38 :36,User frame 1(G:1)
+10-JUN-22,08:38 :20,User frame 0(G:1)
+10-JUN-22,08:38 :20,Tool frame 1(G:1)
+10-JUN-22,08:36 :06,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:35 :58,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:35 :42,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:35 :14,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:35 :10,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:34 :48,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:34 :18,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:34 :10,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:33 :42,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:33 :38,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:33 :30,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:33 :24,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:33 :16,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:33 :12,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:33 :06,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:27 :42,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:27 :42,Controlled Stop
+10-JUN-22,08:24 :38,'All' is selected
+10-JUN-22,08:24 :36,F1([ TYPE ]) is pressed
+10-JUN-22,08:24 :34,Menu changed 'Select'
+10-JUN-22,08:24 :34,SELECT is pressed
+10-JUN-22,08:24 :30,Menu changed 'USER'
+10-JUN-22,08:24 :28,Create -BCKED2-
+10-JUN-22,08:24 :28,ENTER is pressed
+10-JUN-22,08:24 :26,Menu changed 'USER'
+10-JUN-22,08:24 :18,Menu changed 'S012SD01'
+10-JUN-22,08:24 :18,EDIT is pressed
+10-JUN-22,08:24 :16,Tool frame 2(G:1)
+10-JUN-22,08:24 :16,Menu changed 'USER'
+10-JUN-22,08:24 :12,F2(LOOK) is pressed
+10-JUN-22,08:23 :12,Menu changed 'S012SD01'
+10-JUN-22,08:23 :12,EDIT is pressed
+10-JUN-22,08:23 :08,User frame 1(G:1)
+10-JUN-22,08:22 :50,User frame 0(G:1)
+10-JUN-22,08:22 :50,Tool frame 1(G:1)
+10-JUN-22,08:22 :06,Tool frame 2(G:1)
+10-JUN-22,08:20 :58,User frame 1(G:1)
+10-JUN-22,08:20 :56,Menu changed 'USER'
+10-JUN-22,08:20 :44,Menu changed 'S012SD01'
+10-JUN-22,08:20 :44,EDIT is pressed
+10-JUN-22,08:20 :40,RESET is pressed
+10-JUN-22,08:20 :40,RESET is pressed
+10-JUN-22,08:20 :40,RESET is pressed
+10-JUN-22,08:20 :40,RESET is pressed
+10-JUN-22,08:20 :40,RESET is pressed
+10-JUN-22,08:20 :40,RESET is pressed
+10-JUN-22,08:20 :40,RESET is pressed
+10-JUN-22,08:20 :40,RESET is pressed
+10-JUN-22,08:20 :40,RESET is pressed
+10-JUN-22,08:20 :40,RESET is pressed
+10-JUN-22,08:20 :40,RESET is pressed
+10-JUN-22,08:20 :38,RESET is pressed
+10-JUN-22,08:20 :38,RESET is pressed
+10-JUN-22,08:20 :38,RESET is pressed
+10-JUN-22,08:20 :38,Operation mode AUTO Selected
+10-JUN-22,08:20 :38,DEADMAN defeated
+10-JUN-22,08:20 :38,TP disabled in T1/T2 mode
+10-JUN-22,08:20 :36,Menu changed 'USER'
+10-JUN-22,08:20 :32,SHIFT +% is pressed
+10-JUN-22,08:20 :32,SHIFT +% is pressed
+10-JUN-22,08:20 :30,Override 100%
+10-JUN-22,08:20 :30,SHIFT +% is pressed
+10-JUN-22,08:20 :30,Override 50%
+10-JUN-22,08:20 :30,SHIFT +% is pressed
+10-JUN-22,08:20 :30,"SHIFT,FWD is pressed"
+10-JUN-22,08:20 :30,Menu changed 'MOV_HOME'
+10-JUN-22,08:20 :30,ENTER is pressed
+10-JUN-22,08:20 :28,Menu changed 'Select'
+10-JUN-22,08:20 :28,SELECT is pressed
+10-JUN-22,08:20 :28,Deadman switch released
+10-JUN-22,08:20 :28,Operation mode T1 Selected
+10-JUN-22,08:20 :28,'ABORT (ALL)' is selected in FCTN
+10-JUN-22,08:20 :28,ENTER is pressed
+10-JUN-22,08:20 :28,DEADMAN defeated
+10-JUN-22,08:20 :28,TP enabled in AUTO mode
+10-JUN-22,08:20 :26,Menu changed 'ALARM Recovery'
+10-JUN-22,08:20 :26,Override 10%
+10-JUN-22,08:20 :26,TP is enabled while running (
+10-JUN-22,08:19 :52,RESET is pressed
+10-JUN-22,08:19 :52,RESET is pressed
+10-JUN-22,08:19 :50,Menu changed 'SL_RFILLCHK'
+10-JUN-22,08:19 :50,EDIT is pressed
+10-JUN-22,08:18 :22,Menu changed 'ALARM Recovery'
+10-JUN-22,08:18 :22,Sealer Not Reset Check SCA U (
+10-JUN-22,08:12 :28,Menu changed 'ALARM Recovery'
+10-JUN-22,08:12 :28,Sealer Not Reset Check SCA U (
+10-JUN-22,08:11 :22,User frame 0(G:1)
+10-JUN-22,08:11 :22,Tool frame 1(G:1)
+10-JUN-22,08:07 :04,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:07 :00,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:01 :24,"DCS SSO Fence Open 1,1"
+10-JUN-22,08:01 :24,Controlled Stop
+10-JUN-22,07:53 :06,"DCS SSO Fence Open 1,1"
+10-JUN-22,07:53 :06,Controlled Stop
+10-JUN-22,07:52 :10,Tool frame 2(G:1)
+10-JUN-22,07:52 :10,Menu changed 'USER'
+10-JUN-22,07:51 :48,Menu changed 'STYLE012'
+10-JUN-22,07:51 :48,EDIT is pressed
+10-JUN-22,07:51 :46,2 is entered
+10-JUN-22,07:48 :52,User frame 1(G:1)
+10-JUN-22,07:48 :34,User frame 0(G:1)
+10-JUN-22,07:48 :34,Tool frame 1(G:1)
+10-JUN-22,07:46 :54,"DCS SSO Fence Open 1,1"
+10-JUN-22,07:46 :50,"DCS SSO Fence Open 1,1"
+10-JUN-22,07:45 :58,"DCS SSO Fence Open 1,1"
+10-JUN-22,07:45 :58,Controlled Stop
+10-JUN-22,07:22 :10,"DCS SSO Fence Open 1,1"
+10-JUN-22,07:22 :10,Controlled Stop
+10-JUN-22,07:19 :12,"DCS SSO Fence Open 1,1"
+10-JUN-22,07:19 :12,Controlled Stop
+10-JUN-22,07:13 :54,Tool frame 2(G:1)
+10-JUN-22,07:12 :46,User frame 1(G:1)
+10-JUN-22,07:12 :28,User frame 0(G:1)
+10-JUN-22,07:12 :28,Tool frame 1(G:1)
+10-JUN-22,07:07 :54,"DCS SSO Fence Open 1,1"
+10-JUN-22,07:06 :38,"DCS SSO Fence Open 1,1"
+10-JUN-22,07:06 :38,Controlled Stop
+10-JUN-22,07:05 :46,Tool frame 2(G:1)
+10-JUN-22,07:04 :38,User frame 1(G:1)
+10-JUN-22,07:04 :20,User frame 0(G:1)
+10-JUN-22,07:04 :20,Tool frame 1(G:1)
+10-JUN-22,07:01 :10,Tool frame 2(G:1)
+10-JUN-22,07:00 :02,User frame 1(G:1)
+10-JUN-22,06:59 :44,User frame 0(G:1)
+10-JUN-22,06:59 :44,Tool frame 1(G:1)
+10-JUN-22,06:47 :06,"DCS SSO Fence Open 1,1"
+10-JUN-22,06:47 :06,Controlled Stop
+10-JUN-22,06:43 :24,Tool frame 2(G:1)
+10-JUN-22,06:42 :16,User frame 1(G:1)
+10-JUN-22,06:41 :58,User frame 0(G:1)
+10-JUN-22,06:41 :58,Tool frame 1(G:1)
+10-JUN-22,06:37 :26,Tool frame 2(G:1)
+10-JUN-22,06:36 :18,Menu changed 'USER'
+10-JUN-22,06:35 :22,"DCS SSO Fence Open 1,1"
+10-JUN-22,06:33 :06,"DCS SSO Fence Open 1,1"
+10-JUN-22,06:33 :04,Controlled Stop
+10-JUN-22,06:32 :38,"DCS SSO Fence Open 1,1"
+10-JUN-22,06:32 :38,Controlled Stop
+10-JUN-22,06:32 :30,Menu changed 'ALARM Recovery'
+10-JUN-22,06:25 :48,User frame 1(G:1)
+10-JUN-22,06:18 :12,Tool frame 1(G:1)
+10-JUN-22,06:17 :26,Tool frame 2(G:1)
+10-JUN-22,04:17 :50,Tool frame 1(G:1)
+10-JUN-22,04:17 :02,Tool frame 2(G:1)
+10-JUN-22,02:17 :26,Tool frame 1(G:1)
+10-JUN-22,02:16 :40,Tool frame 2(G:1)
+10-JUN-22,00:17 :04,Tool frame 1(G:1)
+10-JUN-22,00:16 :16,Tool frame 2(G:1)
+09-JUN-22,22:16 :38,Tool frame 1(G:1)
+09-JUN-22,22:15 :54,Tool frame 2(G:1)
+09-JUN-22,20:16 :14,Tool frame 1(G:1)
+09-JUN-22,20:15 :30,Tool frame 2(G:1)
+09-JUN-22,18:15 :56,Tool frame 1(G:1)
+09-JUN-22,18:15 :08,Tool frame 2(G:1)
+09-JUN-22,18:13 :36,Menu changed 'USER'
+09-JUN-22,18:13 :36,User frame 0(G:1)
+09-JUN-22,18:13 :36,Tool frame 1(G:1)
+09-JUN-22,16:24 :08,PREV is pressed
+09-JUN-22,16:23 :50,"SHIFT,COORD is pressed"
+09-JUN-22,16:23 :02,F4(  PAN  R) is pressed
+09-JUN-22,16:23 :00,F5(OTATE  >) is pressed
+09-JUN-22,16:22 :54,F3(  ZOOM  ) is pressed
+09-JUN-22,16:22 :50,'4D Frame Display' is selected
+09-JUN-22,16:22 :42,F1([ TYPE ]) is pressed
+09-JUN-22,16:22 :38,F5(OTATE  >) is pressed
+09-JUN-22,16:22 :34,'4D TCP Trace' is selected
+09-JUN-22,16:22 :30,F1([ TYPE ]) is pressed
+09-JUN-22,16:22 :20,Menu changed '4D GRAPHICS  Display'
+09-JUN-22,16:22 :20,'4D Display' is selected in '4D GRAPHI
+09-JUN-22,16:22 :20,ENTER is pressed
+09-JUN-22,16:22 :16,ENTER is pressed
+09-JUN-22,16:22 :08,PREV is pressed
+09-JUN-22,16:22 :02,"SHIFT,COORD is pressed"
+09-JUN-22,16:14 :34,Tool frame 2(G:1)
+09-JUN-22,16:12 :26,User frame 1(G:1)
+09-JUN-22,16:12 :06,User frame 0(G:1)
+09-JUN-22,16:12 :06,Tool frame 1(G:1)
+09-JUN-22,15:52 :40,"DCS SSO Ext Emergency Stop 1,1"
+09-JUN-22,15:52 :38,Controlled Stop
+09-JUN-22,15:17 :12,Tool frame 2(G:1)
+09-JUN-22,15:16 :06,User frame 1(G:1)
+09-JUN-22,15:15 :48,User frame 0(G:1)
+09-JUN-22,15:15 :48,Tool frame 1(G:1)
+09-JUN-22,15:11 :58,"DCS SSO Fence Open 1,1"
+09-JUN-22,15:11 :58,Controlled Stop
+09-JUN-22,14:39 :46,Tool frame 2(G:1)
+09-JUN-22,14:38 :38,User frame 1(G:1)
+09-JUN-22,14:38 :20,User frame 0(G:1)
+09-JUN-22,14:38 :20,Tool frame 1(G:1)
+09-JUN-22,14:35 :24,"DCS SSO Fence Open 1,1"
+09-JUN-22,14:35 :24,Controlled Stop
+09-JUN-22,14:33 :54,Tool frame 2(G:1)
+09-JUN-22,14:32 :46,User frame 1(G:1)
+09-JUN-22,14:32 :28,User frame 0(G:1)
+09-JUN-22,14:32 :28,Tool frame 1(G:1)
+09-JUN-22,14:26 :30,"DCS SSO Fence Open 1,1"
+09-JUN-22,14:26 :30,Controlled Stop
+09-JUN-22,14:19 :02,Tool frame 2(G:1)
+09-JUN-22,14:17 :54,User frame 1(G:1)
+09-JUN-22,14:17 :38,User frame 0(G:1)
+09-JUN-22,14:17 :38,Tool frame 1(G:1)
+09-JUN-22,13:48 :24,Tool frame 2(G:1)
+09-JUN-22,13:47 :16,User frame 1(G:1)
+09-JUN-22,13:47 :00,User frame 0(G:1)
+09-JUN-22,13:47 :00,Tool frame 1(G:1)
+09-JUN-22,13:40 :20,Tool frame 2(G:1)
+09-JUN-22,13:39 :14,User frame 1(G:1)
+09-JUN-22,13:38 :56,User frame 0(G:1)
+09-JUN-22,13:38 :56,Tool frame 1(G:1)
+09-JUN-22,13:20 :14,Tool frame 2(G:1)
+09-JUN-22,13:19 :06,User frame 1(G:1)
+09-JUN-22,12:46 :18,Tool frame 1(G:1)
+09-JUN-22,12:45 :30,Tool frame 2(G:1)
+09-JUN-22,12:43 :58,User frame 0(G:1)
+09-JUN-22,12:43 :58,Tool frame 1(G:1)
+09-JUN-22,10:44 :56,Tool frame 2(G:1)
+09-JUN-22,10:43 :50,User frame 1(G:1)
+09-JUN-22,10:43 :32,User frame 0(G:1)
+09-JUN-22,10:43 :32,Tool frame 1(G:1)
+09-JUN-22,10:25 :28,"DCS SSO Fence Open 1,1"
+09-JUN-22,10:25 :28,Controlled Stop
+09-JUN-22,10:20 :48,"DCS SSO Fence Open 1,1"
+09-JUN-22,10:20 :48,Controlled Stop
+09-JUN-22,10:15 :58,"DCS SSO Fence Open 1,1"
+09-JUN-22,10:15 :58,Controlled Stop
+09-JUN-22,10:09 :32,Tool frame 2(G:1)
+09-JUN-22,10:08 :24,User frame 1(G:1)
+09-JUN-22,10:08 :06,User frame 0(G:1)
+09-JUN-22,10:08 :06,Tool frame 1(G:1)
+09-JUN-22,09:57 :08,Tool frame 2(G:1)
+09-JUN-22,09:56 :00,User frame 1(G:1)
+09-JUN-22,09:55 :44,User frame 0(G:1)
+09-JUN-22,09:55 :44,Tool frame 1(G:1)
+09-JUN-22,09:50 :04,"DCS SSO Fence Open 1,1"
+09-JUN-22,09:50 :04,Controlled Stop
+09-JUN-22,09:42 :24,"DCS SSO Fence Open 1,1"
+09-JUN-22,09:41 :54,"DCS SSO Fence Open 1,1"
+09-JUN-22,09:39 :42,"DCS SSO Fence Open 1,1"
+09-JUN-22,09:39 :42,Controlled Stop
+09-JUN-22,09:32 :28,"DCS SSO Fence Open 1,1"
+09-JUN-22,09:32 :28,Controlled Stop
+09-JUN-22,09:30 :52,Tool frame 2(G:1)
+09-JUN-22,09:29 :44,User frame 1(G:1)
+09-JUN-22,09:29 :28,User frame 0(G:1)
+09-JUN-22,09:29 :28,Tool frame 1(G:1)
+09-JUN-22,08:59 :14,"DCS SSO Fence Open 1,1"
+09-JUN-22,08:59 :14,Controlled Stop
+09-JUN-22,08:56 :58,Tool frame 2(G:1)
+09-JUN-22,08:55 :50,User frame 1(G:1)
+09-JUN-22,08:55 :32,User frame 0(G:1)
+09-JUN-22,08:55 :32,Tool frame 1(G:1)
+09-JUN-22,08:27 :48,Tool frame 2(G:1)
+09-JUN-22,08:26 :40,User frame 1(G:1)
+09-JUN-22,08:26 :24,User frame 0(G:1)
+09-JUN-22,08:26 :24,Tool frame 1(G:1)
+09-JUN-22,08:23 :38,Tool frame 2(G:1)
+09-JUN-22,08:23 :38,Menu changed 'USER'
+09-JUN-22,08:23 :12,Menu changed 'STYLE012'
+09-JUN-22,08:23 :12,EDIT is pressed
+09-JUN-22,08:23 :06,2 is entered
+09-JUN-22,08:22 :28,Override 100%
+09-JUN-22,08:22 :28,+% is pressed
+09-JUN-22,08:22 :28,+% is pressed
+09-JUN-22,08:22 :28,Override 80%
+09-JUN-22,08:22 :28,+% is pressed
+09-JUN-22,08:22 :28,Override 70%
+09-JUN-22,08:22 :28,-% is pressed
+09-JUN-22,08:22 :26,Override 80%
+09-JUN-22,08:22 :26,+% is pressed
+09-JUN-22,08:22 :26,+% is pressed
+09-JUN-22,08:22 :26,Override 60%
+09-JUN-22,08:22 :26,+% is pressed
+09-JUN-22,08:22 :26,Override 50%
+09-JUN-22,08:22 :26,-% is pressed
+09-JUN-22,08:22 :26,Override 60%
+09-JUN-22,08:22 :26,-% is pressed
+09-JUN-22,08:22 :26,Override 70%
+09-JUN-22,08:22 :24,-% is pressed
+09-JUN-22,08:22 :24,Override 80%
+09-JUN-22,08:22 :24,-% is pressed
+09-JUN-22,08:22 :24,Override 90%
+09-JUN-22,08:22 :24,-% is pressed
+09-JUN-22,08:22 :24,3 is entered
+09-JUN-22,08:16 :50,Menu changed 'USER'
+09-JUN-22,08:08 :36,"DCS SSO Fence Open 1,1"
+09-JUN-22,08:08 :36,Controlled Stop
+09-JUN-22,08:08 :36,Menu changed 'ALARM Recovery'
+09-JUN-22,08:06 :46,User frame 1(G:1)
+09-JUN-22,08:06 :26,User frame 0(G:1)
+09-JUN-22,08:06 :26,Tool frame 1(G:1)
+09-JUN-22,08:02 :58,Tool frame 2(G:1)
+09-JUN-22,08:02 :02,Menu changed 'USER'
+09-JUN-22,08:02 :02,Menu changed 'STYLE012'
+09-JUN-22,08:02 :02,2 is entered
+09-JUN-22,08:01 :46,Menu changed 'USER'
+09-JUN-22,08:01 :10,Menu changed 'S012SD01'
+09-JUN-22,08:01 :10,EDIT is pressed
+09-JUN-22,08:01 :10,SHIFT +% is pressed
+09-JUN-22,08:01 :10,SHIFT +% is pressed
+09-JUN-22,08:01 :10,SHIFT +% is pressed
+09-JUN-22,08:01 :10,Override 100%
+09-JUN-22,08:01 :10,SHIFT +% is pressed
+09-JUN-22,08:01 :08,SHIFT +% is pressed
+09-JUN-22,07:59 :48,User frame 1(G:1)
+09-JUN-22,07:59 :28,Menu changed 'USER'
+09-JUN-22,07:59 :28,User frame 0(G:1)
+09-JUN-22,07:59 :28,Tool frame 1(G:1)
+09-JUN-22,07:57 :08,"DCS SSO Fence Open 1,1"
+09-JUN-22,07:57 :08,Controlled Stop
+09-JUN-22,07:54 :56,Menu changed 'STYLE012'
+09-JUN-22,07:54 :56,EDIT is pressed
+09-JUN-22,07:54 :54,PREV is pressed
+09-JUN-22,07:49 :32,"DCS SSO Fence Open 1,1"
+09-JUN-22,07:49 :32,Controlled Stop
+09-JUN-22,07:44 :46,"DCS SSO Fence Open 1,1"
+09-JUN-22,07:44 :46,Controlled Stop
+09-JUN-22,07:29 :14,Tool frame 2(G:1)
+09-JUN-22,07:27 :00,User frame 1(G:1)
+09-JUN-22,07:26 :38,User frame 0(G:1)
+09-JUN-22,07:26 :38,Tool frame 1(G:1)
+09-JUN-22,07:25 :44,"DCS SSO Fence Open 1,1"
+09-JUN-22,07:25 :42,Controlled Stop
+09-JUN-22,07:25 :00,"DCS SSO Fence Open 1,1"
+09-JUN-22,07:25 :00,Controlled Stop
+09-JUN-22,07:20 :18,Tool frame 2(G:1)
+09-JUN-22,07:18 :06,User frame 1(G:1)
+09-JUN-22,07:17 :44,User frame 0(G:1)
+09-JUN-22,07:17 :44,Tool frame 1(G:1)
+09-JUN-22,07:04 :18,"DCS SSO Fence Open 1,1"
+09-JUN-22,07:04 :18,Controlled Stop
+09-JUN-22,06:58 :38,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:56 :32,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:56 :32,Controlled Stop
+09-JUN-22,06:55 :08,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:55 :08,Controlled Stop
+09-JUN-22,06:44 :42,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:44 :42,Controlled Stop
+09-JUN-22,06:43 :12,Tool frame 2(G:1)
+09-JUN-22,06:41 :00,User frame 1(G:1)
+09-JUN-22,06:39 :44,Tool frame 1(G:1)
+09-JUN-22,06:38 :58,Tool frame 2(G:1)
+09-JUN-22,06:38 :52,Menu changed 'USER'
+09-JUN-22,06:38 :18,Menu changed 'ALARM Recovery'
+09-JUN-22,06:37 :44,Menu changed 'USER'
+09-JUN-22,06:37 :42,Tool frame 1(G:1)
+09-JUN-22,06:37 :06,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:37 :04,Controlled Stop
+09-JUN-22,06:37 :00,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:36 :58,Controlled Stop
+09-JUN-22,06:36 :24,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:35 :42,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:34 :56,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:34 :44,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:34 :40,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:34 :32,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:34 :22,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:34 :12,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:12 :16,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:11 :54,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:11 :54,RESET is pressed
+09-JUN-22,06:11 :54,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:11 :54,RESET is pressed
+09-JUN-22,06:11 :52,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:11 :52,RESET is pressed
+09-JUN-22,06:11 :52,"DCS SSO Fence Open 1,1"
+09-JUN-22,06:11 :52,RESET is pressed
+08-JUN-22,19:49 :30,"DCS SSO Ext Emergency Stop 1,1"
+08-JUN-22,19:49 :30,"DCS SSO Fence Open 1,1"
+08-JUN-22,19:05 :52,Operation mode AUTO Selected
+08-JUN-22,19:04 :56,"TP OFF in T1,T2"
+08-JUN-22,19:04 :56,IMSTP input (Group:1)
+08-JUN-22,19:04 :56,TP disabled in T1/T2 mode
+08-JUN-22,19:04 :56,TP disabled in T1/T2 mode
+08-JUN-22,19:04 :56,Operation mode T1 Selected
+15-JUN-22,11:59 :38,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :38,GO[    5]    11 -> 0
+15-JUN-22,11:59 :38,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :38,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :38,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :38,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :38,GO[    5]    0 -> 11
+15-JUN-22,11:59 :38,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :38,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :38,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :38,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :38,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :38,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :36,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :36,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :36,GO[    5]    11 -> 0
+15-JUN-22,11:59 :36,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :36,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :36,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :36,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :36,GO[    5]    0 -> 11
+15-JUN-22,11:59 :36,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :36,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :36,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :36,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :36,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :36,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :36,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :36,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :36,DO[   42]    ON  -> OFF
+15-JUN-22,11:59 :36,GO[    5]    11 -> 0
+15-JUN-22,11:59 :36,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :36,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :36,GO[    5]    0 -> 11
+15-JUN-22,11:59 :34,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :34,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :34,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :34,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :34,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :34,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :34,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :34,DO[   42]    OFF -> ON
+15-JUN-22,11:59 :34,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :34,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :34,GO[    5]    11 -> 0
+15-JUN-22,11:59 :34,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :34,GO[    5]    0 -> 11
+15-JUN-22,11:59 :34,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :34,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :34,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :34,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :34,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :34,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :34,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :34,DO[   42]    ON  -> OFF
+15-JUN-22,11:59 :34,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :34,GO[    5]    11 -> 0
+15-JUN-22,11:59 :34,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :34,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :32,GO[    5]    0 -> 11
+15-JUN-22,11:59 :32,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :32,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :32,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :32,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :32,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :32,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :32,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :32,DO[   42]    OFF -> ON
+15-JUN-22,11:59 :32,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :32,GO[    5]    11 -> 0
+15-JUN-22,11:59 :32,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :32,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :32,GO[    5]    0 -> 11
+15-JUN-22,11:59 :32,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :32,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :32,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :32,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :32,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :32,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :32,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :30,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :30,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :30,GO[    5]    11 -> 0
+15-JUN-22,11:59 :30,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :30,GO[    5]    0 -> 11
+15-JUN-22,11:59 :30,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :30,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :30,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :30,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :30,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :30,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :30,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :30,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :30,GO[    5]    11 -> 0
+15-JUN-22,11:59 :30,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :30,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :30,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :30,GO[    5]    0 -> 11
+15-JUN-22,11:59 :30,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :30,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :30,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :30,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :30,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :30,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :28,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :28,GO[    5]    11 -> 0
+15-JUN-22,11:59 :28,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :28,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :28,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :28,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :28,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :28,GO[    5]    0 -> 11
+15-JUN-22,11:59 :28,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :28,DO[   42]    OFF -> ON
+15-JUN-22,11:59 :28,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :28,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :28,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :28,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :28,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :28,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :28,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :28,GO[    5]    11 -> 0
+15-JUN-22,11:59 :28,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :28,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :28,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :28,DO[   42]    ON  -> OFF
+15-JUN-22,11:59 :28,GO[    5]    0 -> 11
+15-JUN-22,11:59 :26,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :26,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :26,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :26,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :26,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :26,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :26,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :26,GO[    5]    11 -> 0
+15-JUN-22,11:59 :26,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :26,DO[   42]    OFF -> ON
+15-JUN-22,11:59 :26,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :26,GO[    5]    0 -> 11
+15-JUN-22,11:59 :26,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :26,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :26,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :26,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :26,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :26,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :26,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :26,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :26,DO[   42]    ON  -> OFF
+15-JUN-22,11:59 :26,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :26,GO[    5]    11 -> 0
+15-JUN-22,11:59 :26,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :24,GO[    5]    0 -> 11
+15-JUN-22,11:59 :24,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :24,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :24,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :24,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :24,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :24,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :24,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :24,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :24,GO[    5]    11 -> 0
+15-JUN-22,11:59 :24,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :24,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :24,GO[    5]    0 -> 11
+15-JUN-22,11:59 :24,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :24,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :24,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :24,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :24,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :24,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :24,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :22,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :22,GO[    5]    11 -> 0
+15-JUN-22,11:59 :22,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :22,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :22,GO[    5]    0 -> 11
+15-JUN-22,11:59 :22,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :22,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :22,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :22,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :22,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :22,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :22,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :22,GO[    5]    11 -> 0
+15-JUN-22,11:59 :22,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :22,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :22,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :22,GO[    5]    0 -> 11
+15-JUN-22,11:59 :22,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :22,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :22,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :22,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :22,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :20,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :20,GO[    5]    11 -> 0
+15-JUN-22,11:59 :20,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :20,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :20,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :20,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :20,GO[    5]    0 -> 11
+15-JUN-22,11:59 :20,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :20,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :20,DO[   42]    OFF -> ON
+15-JUN-22,11:59 :20,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :20,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :20,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :20,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :20,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :20,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :20,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :20,GO[    5]    11 -> 0
+15-JUN-22,11:59 :20,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :20,GO[    5]    0 -> 11
+15-JUN-22,11:59 :20,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :18,DO[   42]    ON  -> OFF
+15-JUN-22,11:59 :18,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :18,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :18,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :18,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :18,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :18,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :18,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :18,GO[    5]    11 -> 0
+15-JUN-22,11:59 :18,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :18,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :18,GO[    5]    0 -> 11
+15-JUN-22,11:59 :18,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :18,DO[   42]    OFF -> ON
+15-JUN-22,11:59 :18,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :18,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :18,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :18,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :18,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :18,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :18,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :18,GO[    5]    11 -> 0
+15-JUN-22,11:59 :18,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :18,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :16,DO[   42]    ON  -> OFF
+15-JUN-22,11:59 :16,GO[    5]    0 -> 11
+15-JUN-22,11:59 :16,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :16,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :16,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :16,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :16,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :16,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :16,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :16,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :16,GO[    5]    11 -> 0
+15-JUN-22,11:59 :16,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :16,GO[    5]    0 -> 11
+15-JUN-22,11:59 :16,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :16,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :16,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :16,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :16,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :16,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :14,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :14,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :14,GO[    5]    11 -> 0
+15-JUN-22,11:59 :14,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :14,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :14,GO[    5]    0 -> 11
+15-JUN-22,11:59 :14,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :14,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :14,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :14,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :14,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :14,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :14,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :14,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :14,GO[    5]    11 -> 0
+15-JUN-22,11:59 :14,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :14,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :14,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :14,GO[    5]    0 -> 11
+15-JUN-22,11:59 :14,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :14,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :14,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :14,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :14,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :14,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :12,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :12,DO[   42]    ON  -> OFF
+15-JUN-22,11:59 :12,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :12,GO[    5]    11 -> 0
+15-JUN-22,11:59 :12,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :12,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :12,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :12,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :12,GO[    5]    0 -> 11
+15-JUN-22,11:59 :12,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :12,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :12,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :12,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :12,DO[   42]    OFF -> ON
+15-JUN-22,11:59 :12,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :12,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :12,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :12,GO[    5]    11 -> 0
+15-JUN-22,11:59 :12,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :12,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :12,GO[    5]    0 -> 11
+15-JUN-22,11:59 :10,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :10,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :10,DO[   42]    ON  -> OFF
+15-JUN-22,11:59 :10,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :10,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :10,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :10,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :10,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :10,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :10,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :10,GO[    5]    11 -> 0
+15-JUN-22,11:59 :10,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :10,GO[    5]    0 -> 11
+15-JUN-22,11:59 :10,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :10,DO[   42]    OFF -> ON
+15-JUN-22,11:59 :10,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :10,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :10,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :10,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :10,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :10,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :10,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :10,GO[    5]    11 -> 0
+15-JUN-22,11:59 :10,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :10,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :08,GO[    5]    0 -> 11
+15-JUN-22,11:59 :08,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :08,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :08,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :08,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :08,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :08,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :08,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :08,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :08,GO[    5]    11 -> 0
+15-JUN-22,11:59 :08,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :08,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :08,GO[    5]    0 -> 11
+15-JUN-22,11:59 :08,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :08,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :08,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :08,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :08,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :08,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :08,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :06,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :06,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :06,GO[    5]    11 -> 0
+15-JUN-22,11:59 :06,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :06,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :06,GO[    5]    0 -> 11
+15-JUN-22,11:59 :06,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :06,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :06,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :06,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :06,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :06,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :06,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :06,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :06,GO[    5]    11 -> 0
+15-JUN-22,11:59 :06,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :06,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :06,GO[    5]    0 -> 11
+15-JUN-22,11:59 :06,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :06,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :06,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :06,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :06,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :06,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :04,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :04,DO[   42]    ON  -> OFF
+15-JUN-22,11:59 :04,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :04,GO[    5]    11 -> 0
+15-JUN-22,11:59 :04,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :04,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :04,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :04,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :04,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :04,GO[    5]    0 -> 11
+15-JUN-22,11:59 :04,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :04,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :04,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :04,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :04,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :04,DO[   42]    OFF -> ON
+15-JUN-22,11:59 :04,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :04,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :04,GO[    5]    11 -> 0
+15-JUN-22,11:59 :04,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :04,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :04,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :04,GO[    5]    0 -> 11
+15-JUN-22,11:59 :02,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :02,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :02,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :02,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :02,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :02,DO[   42]    ON  -> OFF
+15-JUN-22,11:59 :02,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :02,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :02,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :02,GO[    5]    11 -> 0
+15-JUN-22,11:59 :02,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :02,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :02,GO[    5]    0 -> 11
+15-JUN-22,11:59 :02,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :02,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :02,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :02,DO[   42]    OFF -> ON
+15-JUN-22,11:59 :02,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :02,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :02,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :02,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :02,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :02,GO[    5]    11 -> 0
+15-JUN-22,11:59 :02,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :00,GO[    5]    0 -> 11
+15-JUN-22,11:59 :00,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :00,DO[   24]    ON  -> OFF
+15-JUN-22,11:59 :00,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :00,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :00,DI[  711]    OFF -> ON
+15-JUN-22,11:59 :00,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :00,DI[  911]    OFF -> ON
+15-JUN-22,11:59 :00,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :00,GO[    5]    11 -> 0
+15-JUN-22,11:59 :00,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :00,DO[   44]    OFF -> ON
+15-JUN-22,11:59 :00,GO[    5]    0 -> 11
+15-JUN-22,11:59 :00,DO[   24]    OFF -> ON
+15-JUN-22,11:59 :00,DI[   44]    ON  -> OFF
+15-JUN-22,11:59 :00,DI[  711]    ON  -> OFF
+15-JUN-22,11:59 :00,DI[   44]    OFF -> ON
+15-JUN-22,11:59 :00,DO[   44]    ON  -> OFF
+15-JUN-22,11:59 :00,DI[  911]    ON  -> OFF
+15-JUN-22,11:59 :00,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :58,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :58,GO[    5]    11 -> 0
+15-JUN-22,11:58 :58,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :58,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :58,GO[    5]    0 -> 11
+15-JUN-22,11:58 :58,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :58,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :58,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :58,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :58,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :58,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :58,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :58,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :58,GO[    5]    11 -> 0
+15-JUN-22,11:58 :58,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :58,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :58,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :58,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :58,GO[    5]    0 -> 11
+15-JUN-22,11:58 :58,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :58,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :58,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :58,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :58,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :58,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :56,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :56,GO[    5]    11 -> 0
+15-JUN-22,11:58 :56,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :56,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :56,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :56,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :56,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :56,GO[    5]    0 -> 11
+15-JUN-22,11:58 :56,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :56,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :56,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :56,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :56,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :56,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :56,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :56,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :56,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :56,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :56,GO[    5]    11 -> 0
+15-JUN-22,11:58 :56,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :56,GO[    5]    0 -> 11
+15-JUN-22,11:58 :54,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :54,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :54,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :54,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :54,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :54,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :54,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :54,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :54,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :54,GO[    5]    11 -> 0
+15-JUN-22,11:58 :54,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :54,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :54,GO[    5]    0 -> 11
+15-JUN-22,11:58 :54,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :54,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :54,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :54,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :54,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :54,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :54,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :54,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :54,GO[    5]    11 -> 0
+15-JUN-22,11:58 :54,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :54,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :52,GO[    5]    0 -> 11
+15-JUN-22,11:58 :52,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :52,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :52,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :52,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :52,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :52,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :52,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :52,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :52,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :52,GO[    5]    11 -> 0
+15-JUN-22,11:58 :52,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :52,GO[    5]    0 -> 11
+15-JUN-22,11:58 :52,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :52,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :52,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :52,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :52,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :52,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :52,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :50,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :50,GO[    5]    11 -> 0
+15-JUN-22,11:58 :50,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :50,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :50,GO[    5]    0 -> 11
+15-JUN-22,11:58 :50,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :50,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :50,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :50,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :50,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :50,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :50,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :50,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :50,GO[    5]    11 -> 0
+15-JUN-22,11:58 :50,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :50,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :50,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :50,GO[    5]    0 -> 11
+15-JUN-22,11:58 :50,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :50,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :50,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :50,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :50,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :48,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :48,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :48,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :48,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :48,GO[    5]    11 -> 0
+15-JUN-22,11:58 :48,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :48,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :48,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :48,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :48,GO[    5]    0 -> 11
+15-JUN-22,11:58 :48,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :48,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :48,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :48,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :48,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :48,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :48,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :48,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :48,GO[    5]    11 -> 0
+15-JUN-22,11:58 :48,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :48,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :48,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :48,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :48,GO[    5]    0 -> 11
+15-JUN-22,11:58 :46,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :46,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :46,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :46,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :46,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :46,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :46,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :46,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :46,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :46,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :46,GO[    5]    11 -> 0
+15-JUN-22,11:58 :46,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :46,GO[    5]    0 -> 11
+15-JUN-22,11:58 :46,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :46,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :46,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :46,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :46,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :46,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :46,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :46,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :46,GO[    5]    11 -> 0
+15-JUN-22,11:58 :46,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :46,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :44,GO[    5]    0 -> 11
+15-JUN-22,11:58 :44,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :44,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :44,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :44,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :44,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :44,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :44,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :44,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :44,GO[    5]    11 -> 0
+15-JUN-22,11:58 :44,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :44,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :44,GO[    5]    0 -> 11
+15-JUN-22,11:58 :44,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :44,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :44,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :44,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :44,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :44,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :44,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :42,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :42,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :42,GO[    5]    11 -> 0
+15-JUN-22,11:58 :42,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :42,GO[    5]    0 -> 11
+15-JUN-22,11:58 :42,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :42,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :42,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :42,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :42,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :42,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :42,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :42,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :42,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :42,GO[    5]    11 -> 0
+15-JUN-22,11:58 :42,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :42,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :42,GO[    5]    0 -> 11
+15-JUN-22,11:58 :42,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :42,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :42,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :42,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :42,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :42,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :42,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :42,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :40,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :40,GO[    5]    11 -> 0
+15-JUN-22,11:58 :40,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :40,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :40,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :40,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :40,GO[    5]    0 -> 11
+15-JUN-22,11:58 :40,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :40,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :40,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :40,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :40,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :40,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :40,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :40,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :40,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :40,GO[    5]    11 -> 0
+15-JUN-22,11:58 :40,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :40,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :40,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :40,GO[    5]    0 -> 11
+15-JUN-22,11:58 :40,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :40,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :38,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :38,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :38,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :38,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :38,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :38,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :38,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :38,GO[    5]    11 -> 0
+15-JUN-22,11:58 :38,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :38,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :38,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :38,GO[    5]    0 -> 11
+15-JUN-22,11:58 :38,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :38,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :38,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :38,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :38,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :38,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :38,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :38,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :38,GO[    5]    11 -> 0
+15-JUN-22,11:58 :38,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :38,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :36,GO[    5]    0 -> 11
+15-JUN-22,11:58 :36,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :36,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :36,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :36,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :36,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :36,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :36,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :36,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :36,GO[    5]    11 -> 0
+15-JUN-22,11:58 :36,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :36,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :36,GO[    5]    0 -> 11
+15-JUN-22,11:58 :36,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :36,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :36,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :36,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :36,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :36,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :36,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :34,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :34,GO[    5]    11 -> 0
+15-JUN-22,11:58 :34,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :34,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :34,GO[    5]    0 -> 11
+15-JUN-22,11:58 :34,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :34,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :34,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :34,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :34,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :34,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :34,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :34,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :34,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :34,GO[    5]    11 -> 0
+15-JUN-22,11:58 :34,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :34,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :34,GO[    5]    0 -> 11
+15-JUN-22,11:58 :34,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :34,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :34,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :34,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :34,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :34,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :32,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :32,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :32,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :32,GO[    5]    11 -> 0
+15-JUN-22,11:58 :32,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :32,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :32,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :32,GO[    5]    0 -> 11
+15-JUN-22,11:58 :32,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :32,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :32,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :32,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :32,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :32,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :32,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :32,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :32,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :32,GO[    5]    11 -> 0
+15-JUN-22,11:58 :32,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :32,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :32,GO[    5]    0 -> 11
+15-JUN-22,11:58 :30,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :30,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :30,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :30,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :30,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :30,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :30,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :30,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :30,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :30,GO[    5]    11 -> 0
+15-JUN-22,11:58 :30,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :30,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :30,GO[    5]    0 -> 11
+15-JUN-22,11:58 :30,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :30,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :30,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :30,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :30,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :30,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :30,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :30,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :30,GO[    5]    11 -> 0
+15-JUN-22,11:58 :30,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :30,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :28,GO[    5]    0 -> 11
+15-JUN-22,11:58 :28,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :28,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :28,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :28,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :28,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :28,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :28,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :28,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :28,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :28,GO[    5]    11 -> 0
+15-JUN-22,11:58 :28,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :28,GO[    5]    0 -> 11
+15-JUN-22,11:58 :28,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :28,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :28,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :28,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :28,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :28,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :26,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :26,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :26,GO[    5]    11 -> 0
+15-JUN-22,11:58 :26,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :26,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :26,GO[    5]    0 -> 11
+15-JUN-22,11:58 :26,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :26,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :26,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :26,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :26,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :26,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :26,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :26,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :26,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :26,GO[    5]    11 -> 0
+15-JUN-22,11:58 :26,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :26,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :26,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :26,GO[    5]    0 -> 11
+15-JUN-22,11:58 :26,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :26,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :26,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :26,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :26,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :26,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :24,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :24,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :24,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :24,GO[    5]    11 -> 0
+15-JUN-22,11:58 :24,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :24,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :24,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :24,GO[    5]    0 -> 11
+15-JUN-22,11:58 :24,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :24,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :24,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :24,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :24,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :24,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :24,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :24,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :24,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :24,GO[    5]    11 -> 0
+15-JUN-22,11:58 :24,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :24,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :24,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :24,GO[    5]    0 -> 11
+15-JUN-22,11:58 :22,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :22,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :22,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :22,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :22,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :22,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :22,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :22,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :22,GO[    5]    11 -> 0
+15-JUN-22,11:58 :22,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :22,GO[    5]    0 -> 11
+15-JUN-22,11:58 :22,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :22,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :22,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :22,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :22,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :22,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :22,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :22,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :22,GO[    5]    11 -> 0
+15-JUN-22,11:58 :22,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :22,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :20,GO[    5]    0 -> 11
+15-JUN-22,11:58 :20,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :20,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :20,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :20,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :20,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :20,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :20,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :20,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :20,GO[    5]    11 -> 0
+15-JUN-22,11:58 :20,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :20,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :20,GO[    5]    0 -> 11
+15-JUN-22,11:58 :20,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :20,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :20,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :20,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :20,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :20,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :20,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :18,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :18,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :18,GO[    5]    11 -> 0
+15-JUN-22,11:58 :18,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :18,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :18,GO[    5]    0 -> 11
+15-JUN-22,11:58 :18,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :18,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :18,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :18,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :18,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :18,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :18,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :18,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :18,GO[    5]    11 -> 0
+15-JUN-22,11:58 :18,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :18,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :18,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :18,GO[    5]    0 -> 11
+15-JUN-22,11:58 :18,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :18,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :18,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :18,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :18,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :18,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :16,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :16,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :16,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :16,GO[    5]    11 -> 0
+15-JUN-22,11:58 :16,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :16,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :16,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :16,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :16,GO[    5]    0 -> 11
+15-JUN-22,11:58 :16,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :16,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :16,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :16,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :16,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :16,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :16,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :16,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :16,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :16,GO[    5]    11 -> 0
+15-JUN-22,11:58 :16,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :16,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :16,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :16,GO[    5]    0 -> 11
+15-JUN-22,11:58 :14,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :14,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :14,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :14,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :14,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :14,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :14,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :14,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :14,GO[    5]    11 -> 0
+15-JUN-22,11:58 :14,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :14,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :14,GO[    5]    0 -> 11
+15-JUN-22,11:58 :14,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :14,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :14,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :14,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :14,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :14,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :14,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :14,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :14,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :14,GO[    5]    11 -> 0
+15-JUN-22,11:58 :14,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :12,GO[    5]    0 -> 11
+15-JUN-22,11:58 :12,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :12,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :12,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :12,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :12,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :12,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :12,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :12,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :12,GO[    5]    11 -> 0
+15-JUN-22,11:58 :12,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :12,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :12,GO[    5]    0 -> 11
+15-JUN-22,11:58 :12,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :12,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :12,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :12,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :12,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :12,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :12,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :12,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :10,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :10,GO[    5]    11 -> 0
+15-JUN-22,11:58 :10,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :10,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :10,GO[    5]    0 -> 11
+15-JUN-22,11:58 :10,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :10,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :10,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :10,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :10,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :10,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :10,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :10,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :10,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :10,GO[    5]    11 -> 0
+15-JUN-22,11:58 :10,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :10,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :10,GO[    5]    0 -> 11
+15-JUN-22,11:58 :10,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :10,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :10,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :10,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :10,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :10,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :10,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :10,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :08,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :08,GO[    5]    11 -> 0
+15-JUN-22,11:58 :08,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :08,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :08,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :08,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :08,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :08,GO[    5]    0 -> 11
+15-JUN-22,11:58 :08,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :08,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :08,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :08,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :08,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :08,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :08,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :08,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :08,GO[    5]    11 -> 0
+15-JUN-22,11:58 :08,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :08,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :08,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :08,GO[    5]    0 -> 11
+15-JUN-22,11:58 :06,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :06,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :06,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :06,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :06,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :06,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :06,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :06,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :06,GO[    5]    11 -> 0
+15-JUN-22,11:58 :06,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :06,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :06,GO[    5]    0 -> 11
+15-JUN-22,11:58 :06,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :06,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :06,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :06,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :06,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :06,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :06,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :06,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :06,GO[    5]    11 -> 0
+15-JUN-22,11:58 :06,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :06,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :04,GO[    5]    0 -> 11
+15-JUN-22,11:58 :04,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :04,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :04,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :04,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :04,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :04,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :04,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :04,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :04,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :04,GO[    5]    11 -> 0
+15-JUN-22,11:58 :04,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :04,GO[    5]    0 -> 11
+15-JUN-22,11:58 :04,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :04,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :04,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :04,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :04,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :04,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :04,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :02,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :02,GO[    5]    11 -> 0
+15-JUN-22,11:58 :02,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :02,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :02,GO[    5]    0 -> 11
+15-JUN-22,11:58 :02,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :02,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :02,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :02,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :02,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :02,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :02,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :02,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :02,GO[    5]    11 -> 0
+15-JUN-22,11:58 :02,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :02,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :02,GO[    5]    0 -> 11
+15-JUN-22,11:58 :02,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :02,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :02,DO[   24]    ON  -> OFF
+15-JUN-22,11:58 :02,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :02,DO[   42]    ON  -> OFF
+15-JUN-22,11:58 :02,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :02,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :02,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :00,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :00,GO[    5]    11 -> 0
+15-JUN-22,11:58 :00,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :00,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :00,DI[  711]    OFF -> ON
+15-JUN-22,11:58 :00,GO[    5]    0 -> 11
+15-JUN-22,11:58 :00,DI[  911]    OFF -> ON
+15-JUN-22,11:58 :00,DO[   24]    OFF -> ON
+15-JUN-22,11:58 :00,DO[   42]    OFF -> ON
+15-JUN-22,11:58 :00,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :00,DI[   44]    OFF -> ON
+15-JUN-22,11:58 :00,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :00,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :00,DI[   44]    ON  -> OFF
+15-JUN-22,11:58 :00,GO[    5]    11 -> 0
+15-JUN-22,11:58 :00,DO[   44]    ON  -> OFF
+15-JUN-22,11:58 :00,DI[  711]    ON  -> OFF
+15-JUN-22,11:58 :00,DO[   44]    OFF -> ON
+15-JUN-22,11:58 :00,DI[  911]    ON  -> OFF
+15-JUN-22,11:58 :00,GO[    5]    0 -> 11
+15-JUN-22,11:58 :00,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :58,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :58,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :58,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :58,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :58,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :58,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :58,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :58,GO[    5]    11 -> 0
+15-JUN-22,11:57 :58,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :58,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :58,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :58,GO[    5]    0 -> 11
+15-JUN-22,11:57 :58,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :58,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :58,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :58,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :58,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :58,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :58,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :58,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :58,GO[    5]    11 -> 0
+15-JUN-22,11:57 :58,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :56,GO[    5]    0 -> 11
+15-JUN-22,11:57 :56,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :56,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :56,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :56,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :56,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :56,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :56,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :56,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :56,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :56,GO[    5]    11 -> 0
+15-JUN-22,11:57 :56,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :56,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :56,GO[    5]    0 -> 11
+15-JUN-22,11:57 :56,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :56,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :56,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :56,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :56,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :56,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :56,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :56,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :54,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :54,GO[    5]    11 -> 0
+15-JUN-22,11:57 :54,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :54,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :54,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :54,GO[    5]    0 -> 11
+15-JUN-22,11:57 :54,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :54,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :54,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :54,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :54,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :54,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :54,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :54,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :54,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :54,GO[    5]    11 -> 0
+15-JUN-22,11:57 :54,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :54,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :54,GO[    5]    0 -> 11
+15-JUN-22,11:57 :54,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :54,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :54,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :54,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :54,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :54,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :54,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :52,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :52,GO[    5]    11 -> 0
+15-JUN-22,11:57 :52,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :52,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :52,GO[    5]    0 -> 11
+15-JUN-22,11:57 :52,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :52,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :52,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :52,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :52,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :52,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :52,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :52,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :52,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :52,GO[    5]    11 -> 0
+15-JUN-22,11:57 :52,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :52,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :52,GO[    5]    0 -> 11
+15-JUN-22,11:57 :52,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :50,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :50,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :50,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :50,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :50,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :50,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :50,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :50,GO[    5]    11 -> 0
+15-JUN-22,11:57 :50,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :50,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :50,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :50,GO[    5]    0 -> 11
+15-JUN-22,11:57 :50,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :50,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :50,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :50,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :50,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :50,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :50,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :50,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :50,GO[    5]    11 -> 0
+15-JUN-22,11:57 :50,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :50,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :50,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :48,GO[    5]    0 -> 11
+15-JUN-22,11:57 :48,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :48,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :48,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :48,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :48,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :48,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :48,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :48,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :48,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :48,GO[    5]    11 -> 0
+15-JUN-22,11:57 :48,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :48,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :48,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :48,GO[    5]    0 -> 11
+15-JUN-22,11:57 :48,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :48,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :48,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :48,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :48,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :48,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :46,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :46,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :46,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :46,GO[    5]    11 -> 0
+15-JUN-22,11:57 :46,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :46,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :46,GO[    5]    0 -> 11
+15-JUN-22,11:57 :46,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :46,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :46,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :46,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :46,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :46,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :46,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :46,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :46,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :46,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :46,GO[    5]    11 -> 0
+15-JUN-22,11:57 :46,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :46,GO[    5]    0 -> 11
+15-JUN-22,11:57 :46,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :46,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :46,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :46,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :46,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :46,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :44,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :44,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :44,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :44,GO[    5]    11 -> 0
+15-JUN-22,11:57 :44,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :44,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :44,GO[    5]    0 -> 11
+15-JUN-22,11:57 :44,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :44,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :44,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :44,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :44,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :44,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :44,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :44,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :44,GO[    5]    11 -> 0
+15-JUN-22,11:57 :44,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :44,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :44,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :44,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :44,GO[    5]    0 -> 11
+15-JUN-22,11:57 :44,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :42,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :42,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :42,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :42,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :42,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :42,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :42,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :42,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :42,GO[    5]    11 -> 0
+15-JUN-22,11:57 :42,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :42,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :42,GO[    5]    0 -> 11
+15-JUN-22,11:57 :42,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :42,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :42,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :42,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :42,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :42,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :42,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :42,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :42,GO[    5]    11 -> 0
+15-JUN-22,11:57 :42,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :42,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :40,GO[    5]    0 -> 11
+15-JUN-22,11:57 :40,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :40,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :40,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :40,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :40,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :40,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :40,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :40,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :40,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :40,GO[    5]    11 -> 0
+15-JUN-22,11:57 :40,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :40,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :40,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :40,GO[    5]    0 -> 11
+15-JUN-22,11:57 :40,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :40,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :40,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :40,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :40,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :40,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :40,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :40,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :38,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :38,GO[    5]    11 -> 0
+15-JUN-22,11:57 :38,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :38,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :38,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :38,GO[    5]    0 -> 11
+15-JUN-22,11:57 :38,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :38,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :38,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :38,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :38,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :38,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :38,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :38,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :38,GO[    5]    11 -> 0
+15-JUN-22,11:57 :38,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :38,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :38,GO[    5]    0 -> 11
+15-JUN-22,11:57 :38,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :38,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :38,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :38,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :38,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :38,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :36,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :36,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :36,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :36,GO[    5]    11 -> 0
+15-JUN-22,11:57 :36,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :36,GO[    5]    0 -> 11
+15-JUN-22,11:57 :36,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :36,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :36,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :36,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :36,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :36,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :36,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :36,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :36,GO[    5]    11 -> 0
+15-JUN-22,11:57 :36,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :36,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :36,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :36,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :36,GO[    5]    0 -> 11
+15-JUN-22,11:57 :34,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :34,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :34,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :34,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :34,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :34,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :34,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :34,GO[    5]    11 -> 0
+15-JUN-22,11:57 :34,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :34,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :34,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :34,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :34,GO[    5]    0 -> 11
+15-JUN-22,11:57 :34,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :34,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :34,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :34,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :34,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :34,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :34,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :34,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :34,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :34,GO[    5]    11 -> 0
+15-JUN-22,11:57 :34,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :32,GO[    5]    0 -> 11
+15-JUN-22,11:57 :32,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :32,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :32,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :32,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :32,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :32,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :32,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :32,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :32,GO[    5]    11 -> 0
+15-JUN-22,11:57 :32,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :32,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :32,GO[    5]    0 -> 11
+15-JUN-22,11:57 :32,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :32,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :32,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :32,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :32,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :32,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :32,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :32,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :30,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :30,GO[    5]    11 -> 0
+15-JUN-22,11:57 :30,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :30,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :30,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :30,GO[    5]    0 -> 11
+15-JUN-22,11:57 :30,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :30,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :30,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :30,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :30,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :30,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :30,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :30,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :30,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :30,GO[    5]    11 -> 0
+15-JUN-22,11:57 :30,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :30,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :30,GO[    5]    0 -> 11
+15-JUN-22,11:57 :30,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :30,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :30,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :30,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :30,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :30,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :30,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :30,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :28,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :28,GO[    5]    11 -> 0
+15-JUN-22,11:57 :28,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :28,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :28,GO[    5]    0 -> 11
+15-JUN-22,11:57 :28,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :28,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :28,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :28,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :28,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :28,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :28,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :28,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :28,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :28,GO[    5]    11 -> 0
+15-JUN-22,11:57 :28,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :28,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :28,GO[    5]    0 -> 11
+15-JUN-22,11:57 :28,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :26,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :26,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :26,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :26,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :26,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :26,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :26,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :26,GO[    5]    11 -> 0
+15-JUN-22,11:57 :26,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :26,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :26,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :26,GO[    5]    0 -> 11
+15-JUN-22,11:57 :26,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :26,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :26,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :26,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :26,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :26,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :26,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :26,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :26,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :26,GO[    5]    11 -> 0
+15-JUN-22,11:57 :26,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :26,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :26,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :24,GO[    5]    0 -> 11
+15-JUN-22,11:57 :24,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :24,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :24,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :24,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :24,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :24,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :24,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :24,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :24,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :24,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :24,GO[    5]    11 -> 0
+15-JUN-22,11:57 :24,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :24,GO[    5]    0 -> 11
+15-JUN-22,11:57 :24,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :24,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :24,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :24,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :24,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :24,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :24,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :24,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :22,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :22,GO[    5]    11 -> 0
+15-JUN-22,11:57 :22,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :22,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :22,GO[    5]    0 -> 11
+15-JUN-22,11:57 :22,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :22,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :22,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :22,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :22,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :22,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :22,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :22,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :22,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :22,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :22,GO[    5]    11 -> 0
+15-JUN-22,11:57 :22,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :22,GO[    5]    0 -> 11
+15-JUN-22,11:57 :22,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :22,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :22,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :22,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :22,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :22,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :22,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :20,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :20,GO[    5]    11 -> 0
+15-JUN-22,11:57 :20,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :20,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :20,GO[    5]    0 -> 11
+15-JUN-22,11:57 :20,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :20,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :20,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :20,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :20,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :20,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :20,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :20,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :20,GO[    5]    11 -> 0
+15-JUN-22,11:57 :20,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :20,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :20,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :20,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :20,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :20,GO[    5]    0 -> 11
+15-JUN-22,11:57 :20,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :18,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :18,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :18,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :18,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :18,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :18,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :18,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :18,GO[    5]    11 -> 0
+15-JUN-22,11:57 :18,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :18,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :18,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :18,GO[    5]    0 -> 11
+15-JUN-22,11:57 :18,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :18,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :18,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :18,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :18,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :18,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :18,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :18,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :18,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :18,GO[    5]    11 -> 0
+15-JUN-22,11:57 :18,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :18,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :16,GO[    5]    0 -> 11
+15-JUN-22,11:57 :16,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :16,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :16,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :16,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :16,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :16,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :16,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :16,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :16,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :16,GO[    5]    11 -> 0
+15-JUN-22,11:57 :16,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :16,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :16,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :16,GO[    5]    0 -> 11
+15-JUN-22,11:57 :16,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :16,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :16,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :16,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :16,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :16,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :16,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :16,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :14,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :14,GO[    5]    11 -> 0
+15-JUN-22,11:57 :14,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :14,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :14,GO[    5]    0 -> 11
+15-JUN-22,11:57 :14,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :14,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :14,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :14,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :14,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :14,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :14,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :14,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :14,GO[    5]    11 -> 0
+15-JUN-22,11:57 :14,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :14,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :14,GO[    5]    0 -> 11
+15-JUN-22,11:57 :14,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :14,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :14,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :14,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :14,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :14,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :14,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :12,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :12,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :12,GO[    5]    11 -> 0
+15-JUN-22,11:57 :12,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :12,GO[    5]    0 -> 11
+15-JUN-22,11:57 :12,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :12,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :12,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :12,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :12,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :12,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :12,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :12,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :12,GO[    5]    11 -> 0
+15-JUN-22,11:57 :12,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :12,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :12,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :12,GO[    5]    0 -> 11
+15-JUN-22,11:57 :12,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :12,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :10,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :10,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :10,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :10,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :10,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :10,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :10,GO[    5]    11 -> 0
+15-JUN-22,11:57 :10,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :10,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :10,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :10,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :10,GO[    5]    0 -> 11
+15-JUN-22,11:57 :10,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :10,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :10,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :10,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :10,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :10,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :10,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :10,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :10,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :10,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :10,GO[    5]    11 -> 0
+15-JUN-22,11:57 :10,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :08,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :08,GO[    5]    0 -> 11
+15-JUN-22,11:57 :08,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :08,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :08,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :08,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :08,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :08,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :08,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :08,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :08,GO[    5]    11 -> 0
+15-JUN-22,11:57 :08,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :08,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :08,GO[    5]    0 -> 11
+15-JUN-22,11:57 :08,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :08,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :08,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :08,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :08,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :08,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :06,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :06,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :06,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :06,GO[    5]    11 -> 0
+15-JUN-22,11:57 :06,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :06,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :06,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :06,GO[    5]    0 -> 11
+15-JUN-22,11:57 :06,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :06,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :06,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :06,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :06,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :06,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :06,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :06,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :06,GO[    5]    11 -> 0
+15-JUN-22,11:57 :06,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :06,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :06,GO[    5]    0 -> 11
+15-JUN-22,11:57 :06,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :06,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :06,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :06,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :06,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :06,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :04,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :04,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :04,GO[    5]    11 -> 0
+15-JUN-22,11:57 :04,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :04,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :04,GO[    5]    0 -> 11
+15-JUN-22,11:57 :04,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :04,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :04,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :04,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :04,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :04,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :04,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :04,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :04,GO[    5]    11 -> 0
+15-JUN-22,11:57 :04,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :04,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :04,GO[    5]    0 -> 11
+15-JUN-22,11:57 :04,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :02,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :02,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :02,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :02,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :02,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :02,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :02,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :02,GO[    5]    11 -> 0
+15-JUN-22,11:57 :02,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :02,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :02,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :02,GO[    5]    0 -> 11
+15-JUN-22,11:57 :02,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :02,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :02,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :02,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :02,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :02,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :02,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :02,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :02,DI[  911]    ON  -> OFF
+15-JUN-22,11:57 :02,GO[    5]    11 -> 0
+15-JUN-22,11:57 :02,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :02,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :02,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :00,GO[    5]    0 -> 11
+15-JUN-22,11:57 :00,DO[   24]    OFF -> ON
+15-JUN-22,11:57 :00,DO[   42]    OFF -> ON
+15-JUN-22,11:57 :00,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :00,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :00,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :00,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :00,DI[  711]    OFF -> ON
+15-JUN-22,11:57 :00,DI[  911]    OFF -> ON
+15-JUN-22,11:57 :00,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :00,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :00,GO[    5]    11 -> 0
+15-JUN-22,11:57 :00,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :00,DO[   24]    ON  -> OFF
+15-JUN-22,11:57 :00,GO[    5]    0 -> 11
+15-JUN-22,11:57 :00,DO[   42]    ON  -> OFF
+15-JUN-22,11:57 :00,DI[   44]    ON  -> OFF
+15-JUN-22,11:57 :00,DI[   44]    OFF -> ON
+15-JUN-22,11:57 :00,DO[   44]    ON  -> OFF
+15-JUN-22,11:57 :00,DO[   44]    OFF -> ON
+15-JUN-22,11:57 :00,DI[  711]    ON  -> OFF
+15-JUN-22,11:57 :00,DI[  911]    ON  -> OFF
+15-JUN-22,11:56 :58,DI[   44]    ON  -> OFF
+15-JUN-22,11:56 :58,GO[    5]    11 -> 0
+15-JUN-22,11:56 :58,DO[   44]    ON  -> OFF
