@@ -2,6 +2,6 @@ os
 pandas
 streamlit
 load_dotenv
-PandasAI
+Pandasai
 OpenAI
 matplotlib
