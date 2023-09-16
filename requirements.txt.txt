@@ -1,0 +1,7 @@
+os
+pandas
+streamlit
+load_dotenv
+PandasAI
+OpenAI
+matplotlib
