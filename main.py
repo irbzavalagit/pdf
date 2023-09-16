@@ -5,6 +5,7 @@ from pandasai import PandasAI
 from pandasai.llm.openai import OpenAI
 import matplotlib
 from dotenv import load_dotenv
+from bs4 import BeautifulSoup
 
 matplotlib.use('TkAgg')
 load_dotenv()
