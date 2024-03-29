@@ -31,7 +31,7 @@ CONTROL_CODE	= 00000000 00000000;
    8:  ! Version 2.2 ;
    9:  !******************************** ;
   10:   ;
-  11:  ECHO STYLE(12\1) ;
+  11:  ECHO STYLE(11) ;
   12:  ECHO OPTION    ;
   13:   ;
   14:  CALL S012POUNC    ;
